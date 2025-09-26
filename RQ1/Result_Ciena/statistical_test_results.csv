@@ -1,0 +1,13 @@
+Metric,p-value,A12
+"Contextual
+Relevancy",0.001953125,1.0
+"Contextual
+Recall",0.00390625,0.98
+"Contextual
+Precision",0.001953125,1.0
+"Answer
+Faithfulness",0.083984375,0.745
+"Answer
+Relevancy",0.005859375,0.83
+"Answer
+Correctness",0.001953125,1.0
