@@ -1,0 +1,160 @@
+metric,score,evaluation_model,reason,error,domain_experts_assessment
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct and accurate answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons for irrelevancy provided, indicating a perfect match between the input and retrieval context.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly aligned with the context, and there are no reasons for irrelevancy provided, indicating a seamless connection between the two.",,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a clear and concise answer to the question.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a question asking about the focus of an approach and there is no retrieval context to make it irrelevant, making this a perfect match! Well done!",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and context are perfectly aligned, providing a precise answer to the question asked.",,1
+Contextual Relevancy,0.5,Llama-3 70B,"The score is 0.50 because the retrieval context is blank, indicating no relevant information was found to match the input query.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and concise question, and the retrieval context is empty, indicating a perfect match.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise and accurate response.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and direct question, and there is no irrelevant context to distract from it.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly asking about the use cases of the OPENCOSS platform, and there",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise answer to the question about the business process-based RE approach.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing exactly what is expected from the Lunar Exploration in imaging process.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a seamless connection between the two.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, and there are no reasons provided for irrelevancy, thus making the context perfectly relevant to the input.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and specific question, and there",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,The score is 1.00 because the input is a specific question about the Lunar Exploration Light Rover,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a seamless connection!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,0.5,Llama-3 70B,"The score is 0.50 because the context discusses scheduled order of processes and software design, which are unrelated to the input question about system level and performed, indicating a moderate level of irrelevancy.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a direct question asking for a specific piece of information, and the retrieval context is perfectly relevant to provide the answer.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched to the context, and there are no reasons for irrelevancy provided, so it",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and concise question, and there are no reasons provided for why the retrieval context is irrelevant to the input, which suggests a perfect match!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a seamless connection between the two.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input perfectly matches the context, and the context provides a direct answer to the question, making it perfectly relevant.",,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise answer to the question.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons for irrelevancy provided, indicating a perfect match between the input and retrieval context.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons provided for why the retrieval context is irrelevant to the input, indicating a perfect match!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the retrieval context, with no irrelevant information present.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly addressed in the context, with no reasons for irrelevancy provided, indicating a perfect match.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, making it a perfect match!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a precise answer to the question about preventing condensation of propellants.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched to the retrieval context, and there are no reasons for irrelevancy provided, so it",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct answer to the question asked.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly answered by the context, making it perfectly relevant.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly aligned with the context, and there are no reasons for irrelevancy provided, so it",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,0.0,Llama-3 70B,The score is 0.00 because there is no relevant information provided in the context to describe what the DDMP is about.,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise answer to the question of what the contractor must report.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct and relevant answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because this query perfectly matches the context, providing a precise answer to the user",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context perfectly aligns with the input, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,The score is 1.00 because the input is a specific question that doesn,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons for irrelevancy provided, indicating a perfect match between the input and retrieval context.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a direct and accurate response to the query.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise match for the query.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, with no irrelevant information present.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a seamless connection!",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, and there are no reasons provided for irrelevancy.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a precise and direct answer to the question.",,1
+Contextual Relevancy,0.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because this input is perfectly aligned with the context, and there are no reasons for irrelevancy provided, indicating a perfect match.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a direct answer to the question about Tele-Operation mode!",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, with no irrelevant information provided.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context perfectly aligns with the input, providing a precise answer to the user",,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons for irrelevancy provided, indicating a perfect match between the input and the retrieval context.",,1
+Contextual Relevancy,0.0,Llama-3 70B,"The score is 0.00 because there is no provided information to support the relevance of the retrieval context to the input, resulting in a complete mismatch.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and context are perfectly aligned, with no irrelevant information present.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there is no evidence provided to suggest the input and retrieval context are irrelevant, indicating a perfect match.",,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,0.6666666666666670,Llama-3 70B,"The score is 0.67 because the context does not mention a spacecraft or a comet, only asteroids, making it largely irrelevant to the input question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly aligned with the context, providing a seamless connection between the query and the provided information.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise match.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, with no reasons provided for irrelevancy.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, with no apparent reasons for irrelevancy.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, as there are no reasons provided for why it",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched with the context, providing a seamless connection between the question and the supporting information.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because this retrieval context is perfectly relevant to the input, providing a direct answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing accurate information about the RE process and its scope.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and specific question, and the context is perfectly aligned to provide a direct answer.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a specific question requiring a direct answer, and there is no irrelevant context provided.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a general question, and the retrieval context is empty, indicating a perfect match.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and concise question, and the context is perfectly aligned to provide a relevant answer.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly addressed by the context, providing a perfect match.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons for irrelevancy provided, indicating a perfect match between the input and retrieval context.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, and there are no reasons for irrelevancy provided, so it",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons provided for why the retrieval context is irrelevant to the input, indicating a perfect match!",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, making it perfectly relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and specific question that directly matches the context, making it perfectly relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because this retrieval context is perfectly relevant to the input, providing a direct answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because this input perfectly matches the context, making it a perfect fit! Well done!",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a precise answer to the question about absolute measurement error.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a precise answer to the question about angular separation between pointing vectors of the spacecraft.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"Perfect match! The score is 1.00 because the input and context are directly related to re-acquiring sun pointing of solar arrays, making the context perfectly relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a direct answer to the question about the main actuators for attitude control in orbit around the comet nucleus.",,1
+Contextual Relevancy,0.5,Llama-3 70B,"The score is 0.50 because the context does not specifically mention comet Wirtanen, making it irrelevant to the input question.",,1
+Contextual Relevancy,0.6666666666666670,Llama-3 70B,The score is 0.67 because the context is a table of contents that doesn,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is asking for general information about routine functions, and there is no specific context provided that would make the retrieval context irrelevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because there are no reasons provided for why the retrieval context is irrelevant to the input, indicating a perfect match.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a direct answer to the question about the Rosetta mission and comet Wirtanen.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a seamless connection.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched with the context, and there",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched with the retrieval context, resulting in a perfect relevance score.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and context are perfectly aligned, making the retrieval context entirely relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly answered by the retrieval context, providing the exact information required.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, and there",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and context are perfectly aligned, making the context highly relevant to the input.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct and relevant response to the user",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and concise question, and there are no irrelevant retrieval contexts to distract from it, making it perfectly relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise and relevant answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context perfectly aligns with the input, providing a direct answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly related to the context, and there are no reasons for irrelevancy provided, making it a perfect match!",,1
+Contextual Relevancy,0.0,Llama-3 70B,"The score is 0.00 because there are no reasons provided for why the retrieval context is irrelevant to the input, suggesting a lack of context or information.",,0
+Contextual Relevancy,0.5,Llama-3 70B,"The score is 0.50 because the context does not provide the specific information requested, only discussing the ships",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context perfectly aligns with the input, providing a precise answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched with the context, providing a precise answer to the question asked.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is directly asking about a specific topic, and there is no irrelevant information provided, making it perfectly relevant.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a clear and concise question, and there is no retrieval context provided, making it perfectly relevant to the input.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a seamless and accurate response.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a direct answer to the question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly aligned with the retrieval context, which is not provided in this case, hence a perfect match.",,1
+Contextual Relevancy,0.5,Llama-3 70B,"The score is 0.50 because the retrieval context does not provide any information about adding an entry with no fields, making it only partially relevant to the input question.",,1
+Contextual Relevancy,0.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context perfectly aligns with the input, providing a precise answer to the question about what is close to the ecliptic.",,0
+Contextual Relevancy,0.0,Llama-3 70B,The score is 0.00 because there is no relevant information provided in the retrieval context to support the input query.,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is asking for a specific piece of information, and the retrieval context perfectly matches this request, providing a direct answer.",,0
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input and retrieval context are perfectly aligned, providing a precise answer to the question.",,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly relevant to the input, providing a precise answer to the spacecraft design question.",,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is perfectly matched with the context, and there are no reasons for irrelevancy provided, hence the perfect score!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,,,0
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the retrieval context is perfectly aligned with the input, providing a precise match!",,1
+Contextual Relevancy,1.0,Llama-3 70B,,,1
+Contextual Relevancy,1.0,Llama-3 70B,"The score is 1.00 because the input is a specific question that requires a direct answer, and the retrieval context is empty, indicating a perfect match.",,1
